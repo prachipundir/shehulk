@@ -1,0 +1,15 @@
+--2018-11-26 21:46:01--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fixxidesign.azureedge.net%2Fmedia%2F1676571%2FMickey-Mouse-2.jpg%3Fmode%3Dmax%26width%3D562%26height%3D613
+Resolving www.google.com (www.google.com)... 216.58.196.196, 2404:6800:4002:805::2004
+Connecting to www.google.com (www.google.com)|216.58.196.196|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2018-11-26 21:46:02--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fixxidesign.azureedge.net%2Fmedia%2F1676571%2FMickey-Mouse-2.jpg?mode=max&width=562&height=613’
+
+          imgres?im     [<=>                 ]       0  --.-KB/s               imgres?imgurl=https     [ <=>                ]  11.13K  --.-KB/s    in 0.06s   
+
+2018-11-26 21:46:03 (198 KB/s) - ‘imgres?imgurl=https:%2F%2Fixxidesign.azureedge.net%2Fmedia%2F1676571%2FMickey-Mouse-2.jpg?mode=max&width=562&height=613’ saved [11402]
+
